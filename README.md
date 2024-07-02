@@ -1,19 +1,17 @@
 # 👋 Hello, I'm [Your Name]!
 
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Hexotrion"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Hexotrion&txt=A%20Backend%20Developer"></p>
 
 ## 🌐 About Me
 
-I am a passionate Full Stack Developer specializing in Java and Spring Boot, currently diving deep into the MERN stack. I love creating dynamic, responsive web applications and exploring new technologies and frameworks.
+I am a passionate Backend Developer specializing in Java and Spring Boot, currently diving deep into the MERN stack. I love creating dynamic, responsive web applications and exploring new technologies and frameworks.
 
-- 🔭 I’m currently working on [Your Current Project].
+- 🔭 I’m currently working on something interesting].
 - 🌱 I’m currently learning JavaScript, React, Node.js, Express, and MongoDB.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with advanced React patterns and Node.js best practices.
 - 💬 Ask me about Java, Spring Boot, and anything MERN-related.
-- 📫 How to reach me: [Your Email Address]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 📫 How to reach me: sumitvg2000@gmail.com
 
 ## 🔧 Technologies & Tools
 
