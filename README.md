@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [Your Name]!
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Your+Banner+Here)
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Hexotrion"></p>
 
 ## 🌐 About Me
 
