@@ -43,7 +43,5 @@ I am a passionate Backend Developer specializing in Java and Spring Boot, curren
 
 - **Email:** [sumitvg2000@gmail.com](sumitvg2000@gmail.com)
 
----
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hexotrion)
 
