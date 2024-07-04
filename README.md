@@ -28,32 +28,22 @@ I am a passionate Backend Developer specializing in Java and Spring Boot, curren
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 🌟 Projects
-
-Here are a few highlights of my projects:
-
-- **[3D Developer Portfolio](link-to-project):** An interactive 3D portfolio showcasing my work.
-- **[Task Manager App](link-to-project):** A full-stack task management application.
-- **[E-commerce Platform](link-to-project):** A complete e-commerce platform with user authentication and payment integration.
-- **[Employee Management System](link-to-project):** A Spring Boot application for managing employee data.
-
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Hexotrion's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ## 🌐 Find Me Around the Web
 
-- **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **Portfolio:** [your-portfolio-url](https://www.your-portfolio-url.com)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **LinkedIn:** [linkedin.com/in/hexo](https://www.linkedin.com/in/hexo)
+- **Portfolio:** [your-portfolio-url](https://portfolio-hexotrion.vercel.app/)
 
 ## 📧 Contact
 
-- **Email:** [your-email-address](mailto:your-email-address)
+- **Email:** [sumitvg2000@gmail.com](sumitvg2000@gmail.com)
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-github-username)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hexotrion)
 
