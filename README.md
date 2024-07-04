@@ -37,7 +37,7 @@ I am a passionate Backend Developer specializing in Java and Spring Boot, curren
 ## 🌐 Find Me Around the Web
 
 - **LinkedIn:** [linkedin.com/in/hexo](https://www.linkedin.com/in/hexo)
-- **Portfolio:** [your-portfolio-url](https://portfolio-hexotrion.vercel.app/)
+- **Portfolio:** [https://portfolio-hexotrion.vercel.app/](https://portfolio-hexotrion.vercel.app/)
 
 ## 📧 Contact
 
